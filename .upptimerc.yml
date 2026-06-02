@@ -6,10 +6,13 @@ repo: upptime-monitoring # The name of this repository
 sites:
   - name: codbex Website
     url: https://www.codbex.com/
+    icon: https://www.codbex.com/favicon.ico
   - name: codbex Platform EU1
     url: https://platform.eu1.codbex.com/actuator/health
+    icon: https://www.codbex.com/favicon.ico
   - name: codbex Auth EU1
     url: https://auth.eu1.codbex.com/auth/health
+    icon: https://www.codbex.com/favicon.ico
 
 status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
@@ -17,8 +20,8 @@ status-website:
   baseUrl: /upptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: codbex Status
-  introTitle: "**codbex Status** — uptime monitoring for codbex services, powered by Upptime."
-  introMessage: This is the open-source status page for [codbex](https://www.codbex.com/), powered by [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**codbex Status** — real-time availability of the high-productivity application platform"
+  introMessage: "[codbex](https://www.codbex.com/) is the high-productivity application platform that helps developers, software vendors, and enterprises design, develop, and deliver their industry solutions. This page tracks the real-time uptime and response time of the codbex website and the platform services that run your applications, so you always know they're up and ready."
   navbar:
     - title: Status
       href: /
