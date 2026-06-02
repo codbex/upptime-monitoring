@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 343,
+    "timeDay": 343,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Aerokit Website",
+    "url": "https://www.codbex.com/aerokit/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.codbex.com.ico",
+    "slug": "aerokit-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.eu1.codbex.com.ico",
     "slug": "codbex-platform-eu-1",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptime": "6.15%",
+    "uptimeDay": "6.15%",
+    "uptimeWeek": "6.15%",
+    "uptimeMonth": "6.15%",
+    "uptimeYear": "6.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 0
+      "2026-06-02": 74
     }
   }
 ]
