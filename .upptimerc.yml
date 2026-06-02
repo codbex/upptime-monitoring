@@ -10,6 +10,8 @@ sites:
     url: https://www.codbex.com/aerokit/
   - name: Codbex Platform EU1
     url: https://platform.eu1.codbex.com/
+  - name: Codbex Platform EU2
+    url: https://platform.eu2.codbex.com/
 
 status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
