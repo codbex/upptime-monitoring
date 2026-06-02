@@ -18,7 +18,9 @@ status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
   # If you later add a custom domain, replace the `baseUrl` line with a `cname:` line instead.
   baseUrl: /upptime-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.codbex.com/logo.svg
+  favicon: https://www.codbex.com/favicon.ico
+  theme: light
   name: codbex Status
   introTitle: "**codbex Status** — real-time availability of the high-productivity application platform"
   introMessage: "[codbex](https://www.codbex.com/) is the high-productivity application platform that helps developers, software vendors, and enterprises design, develop, and deliver their industry solutions. This page tracks the real-time uptime and response time of the codbex website and the platform services that run your applications, so you always know they're up and ready."
