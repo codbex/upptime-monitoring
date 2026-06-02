@@ -14,6 +14,8 @@ sites:
     url: https://platform.eu2.codbex.com/
   - name: Codbex Platform EU3
     url: https://platform.eu3.codbex.com/
+  - name: Codbex Platform EU4
+    url: https://platform.eu3.codbex.com/
 
 status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
