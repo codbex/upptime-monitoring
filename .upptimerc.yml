@@ -6,16 +6,8 @@ repo: upptime-monitoring # The name of this repository
 sites:
   - name: Codbex Website
     url: https://www.codbex.com/
-  - name: Aerokit Website
-    url: https://www.codbex.com/aerokit/
-  - name: Codbex Platform
-    url: https://platform.codbex.com/
-  - name: Codbex Platform EU2
-    url: https://platform.eu2.codbex.com/
-  - name: Codbex Platform EU3
-    url: https://platform.eu3.codbex.com/
-  - name: Codbex Platform EU4
-    url: https://platform.eu3.codbex.com/
+  - name: Codbex Platform EU1
+    url: https://platform.eu1.codbex.com/
 
 status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
