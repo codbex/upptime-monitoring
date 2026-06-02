@@ -4,25 +4,23 @@ owner: codbex # Your GitHub organization or username, where this repository live
 repo: upptime-monitoring # The name of this repository
 
 sites:
-  - name: Codbex Website
+  - name: codbex Website
     url: https://www.codbex.com/
-  - name: Codbex Platform EU1
-    url: https://platform.eu1.codbex.com/
+  - name: codbex Platform EU1
+    url: https://platform.eu1.codbex.com/actuator/health
+  - name: codbex Auth EU1
+    url: https://auth.eu1.codbex.com/auth/health
 
 status-website:
   # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
   # If you later add a custom domain, replace the `baseUrl` line with a `cname:` line instead.
   baseUrl: /upptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Codbex Status
-  introTitle: "**Codbex Status** — uptime monitoring for Codbex services, powered by Upptime."
-  introMessage: This is the open-source status page for [Codbex](https://www.codbex.com/), powered by [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  name: codbex Status
+  introTitle: "**codbex Status** — uptime monitoring for codbex services, powered by Upptime."
+  introMessage: This is the open-source status page for [codbex](https://www.codbex.com/), powered by [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Notifications (Slack + Microsoft Teams) are configured via GitHub repository
-# secrets, not in this file. See the README "Notifications" section for the required
-# secret names. Docs: https://upptime.js.org/docs/notifications
