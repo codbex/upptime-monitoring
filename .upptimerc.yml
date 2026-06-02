@@ -24,6 +24,23 @@ status-website:
   name: codbex Status
   introTitle: "**codbex Status** — real-time availability of the high-productivity application platform"
   introMessage: "[codbex](https://www.codbex.com/) is the high-productivity application platform that helps developers, software vendors, and enterprises design, develop, and deliver their industry solutions. This page tracks the real-time uptime and response time of the codbex website and the platform services that run your applications, so you always know they're up and ready."
+  customHeadHtml: |
+    <meta name="description" content="Live uptime and response-time status for codbex — the high-productivity application platform for developers, software vendors, and enterprises to design, develop, and deliver their industry solutions." />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.codbex.com/upptime-monitoring/" />
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="codbex Status" />
+    <meta property="og:title" content="codbex Status — Platform Availability" />
+    <meta property="og:description" content="Real-time uptime and response time for the codbex website and platform services." />
+    <meta property="og:url" content="https://www.codbex.com/upptime-monitoring/" />
+    <meta property="og:image" content="https://www.codbex.com/social-card.png" />
+    <meta property="og:image:alt" content="codbex" />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="codbex Status — Platform Availability" />
+    <meta name="twitter:description" content="Real-time uptime and response time for the codbex website and platform services." />
+    <meta name="twitter:image" content="https://www.codbex.com/social-card.png" />
   navbar:
     - title: Status
       href: /
