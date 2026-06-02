@@ -1,6 +1,6 @@
 [
   {
-    "name": "Codbex Website",
+    "name": "codbex Website",
     "url": "https://www.codbex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.codbex.com.ico",
     "slug": "codbex-website",
@@ -10,31 +10,49 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Codbex Platform EU1",
-    "url": "https://platform.eu1.codbex.com/",
+    "name": "codbex Platform EU1",
+    "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/platform.eu1.codbex.com.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 773,
-    "timeDay": 773,
-    "timeWeek": 773,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 590,
+    "timeDay": 590,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2026-06-02": 200
+      "2026-06-02": 505
     }
+  },
+  {
+    "name": "codbex Auth EU1",
+    "url": "https://auth.eu1.codbex.com/auth/health",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.eu1.codbex.com.ico",
+    "slug": "codbex-auth-eu-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
+    "dailyMinutesDown": {}
   }
 ]
