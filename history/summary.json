@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Codbex Platform EU1",
-    "url": "https://platform.eu1.codbex.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/platform.eu1.codbex.com.ico",
-    "slug": "codbex-platform-eu-1",
+    "name": "Codbex Platform",
+    "url": "https://platform.codbex.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/platform.codbex.com.ico",
+    "slug": "codbex-platform",
     "status": "down",
-    "uptime": "4.82%",
-    "uptimeDay": "4.82%",
-    "uptimeWeek": "4.82%",
-    "uptimeMonth": "4.82%",
-    "uptimeYear": "4.82%",
+    "uptime": "25.09%",
+    "uptimeDay": "25.09%",
+    "uptimeWeek": "25.09%",
+    "uptimeMonth": "25.09%",
+    "uptimeYear": "25.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 96
+      "2026-06-02": 1
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.eu2.codbex.com.ico",
     "slug": "codbex-platform-eu-2",
     "status": "down",
-    "uptime": "2.84%",
-    "uptimeDay": "2.84%",
-    "uptimeWeek": "2.84%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
+    "uptime": "1.56%",
+    "uptimeDay": "1.56%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 12
+      "2026-06-02": 23
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.eu3.codbex.com.ico",
     "slug": "codbex-platform-eu-3",
     "status": "down",
-    "uptime": "74.30%",
-    "uptimeDay": "74.30%",
-    "uptimeWeek": "74.30%",
-    "uptimeMonth": "74.30%",
-    "uptimeYear": "74.30%",
+    "uptime": "5.18%",
+    "uptimeDay": "5.18%",
+    "uptimeWeek": "5.18%",
+    "uptimeMonth": "5.18%",
+    "uptimeYear": "5.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 0
+      "2026-06-02": 11
     }
   }
 ]
