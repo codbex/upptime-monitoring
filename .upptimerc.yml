@@ -8,8 +8,8 @@ sites:
     url: https://www.codbex.com/
   - name: Aerokit Website
     url: https://www.codbex.com/aerokit/
-  - name: Codbex Platform EU1
-    url: https://platform.eu1.codbex.com/
+  - name: Codbex Platform
+    url: https://platform.codbex.com/
   - name: Codbex Platform EU2
     url: https://platform.eu2.codbex.com/
   - name: Codbex Platform EU3
