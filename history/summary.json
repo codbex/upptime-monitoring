@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 253,
-    "timeWeek": 216,
+    "timeWeek": 234,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -22,37 +22,42 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 491,
     "timeDay": 412,
-    "timeWeek": 491,
+    "timeWeek": 519,
     "timeMonth": 491,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-10": 5,
+      "2026-06-09": 11
+    }
   },
   {
     "name": "codbex Platform EU1",
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "up",
-    "uptime": "94.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.77%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "94.77%",
+    "status": "down",
+    "uptime": "95.27%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
     "time": 801,
     "timeDay": 437,
-    "timeWeek": 801,
+    "timeWeek": 1024,
     "timeMonth": 801,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2026-06-02": 505
+      "2026-06-02": 505,
+      "2026-06-10": 5,
+      "2026-06-09": 4
     }
   },
   {
@@ -60,21 +65,22 @@
     "url": "https://athena.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-athena-eu-1",
-    "status": "up",
-    "uptime": "72.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.98%",
-    "uptimeMonth": "72.98%",
-    "uptimeYear": "72.98%",
+    "status": "down",
+    "uptime": "76.12%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "79.36%",
+    "uptimeMonth": "76.12%",
+    "uptimeYear": "76.12%",
     "time": 483,
     "timeDay": 393,
-    "timeWeek": 483,
+    "timeWeek": 508,
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2026-06-04": 643,
       "2026-06-03": 1440,
-      "2026-06-02": 424
+      "2026-06-02": 424,
+      "2026-06-10": 2
     }
   }
 ]
