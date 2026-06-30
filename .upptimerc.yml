@@ -18,9 +18,10 @@ sites:
     icon: https://www.codbex.com/favicon.ico
 
 status-website:
-  # No custom domain — served via GitHub Pages at https://codbex.github.io/upptime-monitoring
-  # If you later add a custom domain, replace the `baseUrl` line with a `cname:` line instead.
-  baseUrl: /upptime-monitoring
+  # Custom domain — served at https://status.codbex.com via GitHub Pages.
+  # `cname` makes the generator write a CNAME file on every deploy (redeploy-safe).
+  # Do not add `baseUrl` alongside `cname`, or asset paths break.
+  cname: status.codbex.com
   logoUrl: https://www.codbex.com/logo.svg
   favicon: https://www.codbex.com/favicon.ico
   theme: light
@@ -30,13 +31,13 @@ status-website:
   customHeadHtml: |
     <meta name="description" content="Live uptime and response-time status for codbex — the high-productivity application platform for developers, software vendors, and enterprises to design, develop, and deliver their industry solutions." />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://www.codbex.com/upptime-monitoring/" />
+    <link rel="canonical" href="https://status.codbex.com/" />
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="codbex Status" />
     <meta property="og:title" content="codbex Status — Platform Availability" />
     <meta property="og:description" content="Real-time uptime and response time for the codbex website and platform services." />
-    <meta property="og:url" content="https://www.codbex.com/upptime-monitoring/" />
+    <meta property="og:url" content="https://status.codbex.com/" />
     <meta property="og:image" content="https://www.codbex.com/social-card.png" />
     <meta property="og:image:alt" content="codbex" />
     <!-- Twitter -->
