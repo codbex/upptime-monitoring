@@ -13,9 +13,6 @@ sites:
   - name: codbex Platform EU1
     url: https://platform.eu1.codbex.com/actuator/health
     icon: https://www.codbex.com/favicon.ico
-  - name: codbex Athena EU1
-    url: https://athena.eu1.codbex.com/actuator/health
-    icon: https://www.codbex.com/favicon.ico
 
 status-website:
   # Custom domain — served at https://status.codbex.com via GitHub Pages.
