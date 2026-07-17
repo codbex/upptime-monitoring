@@ -22,10 +22,10 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
     "time": 551,
@@ -36,7 +36,8 @@
     "dailyMinutesDown": {
       "2026-06-10": 21,
       "2026-06-09": 11,
-      "2026-07-15": 54
+      "2026-07-15": 54,
+      "2026-07-17": 0
     }
   },
   {
@@ -44,7 +45,7 @@
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
