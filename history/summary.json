@@ -22,17 +22,17 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "78.08%",
-    "uptimeWeek": "83.62%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "97.57%",
-    "time": 647,
-    "timeDay": 816,
-    "timeWeek": 1129,
-    "timeMonth": 746,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "97.37%",
+    "uptimeDay": "77.64%",
+    "uptimeWeek": "82.20%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "97.37%",
+    "time": 739,
+    "timeDay": 2742,
+    "timeWeek": 1491,
+    "timeMonth": 893,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2026-06-10": 21,
       "2026-06-09": 11,
@@ -40,7 +40,7 @@
       "2026-07-17": 132,
       "2026-07-18": 464,
       "2026-07-19": 822,
-      "2026-07-20": 178
+      "2026-07-20": 322
     }
   },
   {
@@ -48,17 +48,17 @@
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "down",
-    "uptime": "97.14%",
-    "uptimeDay": "78.14%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "97.14%",
-    "time": 623,
-    "timeDay": 533,
-    "timeWeek": 738,
-    "timeMonth": 589,
-    "timeYear": 623,
+    "status": "up",
+    "uptime": "96.94%",
+    "uptimeDay": "77.68%",
+    "uptimeWeek": "84.07%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "96.94%",
+    "time": 621,
+    "timeDay": 546,
+    "timeWeek": 720,
+    "timeMonth": 587,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2026-06-02": 505,
       "2026-06-10": 21,
@@ -66,7 +66,7 @@
       "2026-07-17": 132,
       "2026-07-18": 330,
       "2026-07-19": 822,
-      "2026-07-20": 178
+      "2026-07-20": 321
     }
   }
 ]
