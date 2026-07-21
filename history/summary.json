@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 138,
-    "timeWeek": 278,
-    "timeMonth": 256,
-    "timeYear": 232,
+    "time": 235,
+    "timeDay": 267,
+    "timeWeek": 305,
+    "timeMonth": 260,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "down",
-    "uptime": "97.32%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "81.42%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "97.32%",
-    "time": 822,
-    "timeDay": 3308,
-    "timeWeek": 1799,
-    "timeMonth": 1031,
-    "timeYear": 822,
+    "status": "up",
+    "uptime": "97.30%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "81.26%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "97.30%",
+    "time": 888,
+    "timeDay": 3860,
+    "timeWeek": 2023,
+    "timeMonth": 1131,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2026-06-10": 21,
       "2026-06-09": 11,
@@ -41,7 +41,7 @@
       "2026-07-18": 464,
       "2026-07-19": 822,
       "2026-07-20": 322,
-      "2026-07-21": 78
+      "2026-07-21": 94
     }
   },
   {
@@ -49,17 +49,17 @@
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "down",
-    "uptime": "96.90%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "83.30%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "96.90%",
-    "time": 617,
-    "timeDay": 488,
-    "timeWeek": 703,
-    "timeMonth": 585,
-    "timeYear": 617,
+    "status": "up",
+    "uptime": "96.88%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "83.14%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.88%",
+    "time": 615,
+    "timeDay": 489,
+    "timeWeek": 681,
+    "timeMonth": 583,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2026-06-02": 505,
       "2026-06-10": 21,
@@ -68,7 +68,7 @@
       "2026-07-18": 330,
       "2026-07-19": 822,
       "2026-07-20": 321,
-      "2026-07-21": 78
+      "2026-07-21": 94
     }
   }
 ]
