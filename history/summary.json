@@ -22,12 +22,12 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "81.26%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "81.25%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.31%",
     "time": 888,
     "timeDay": 3419,
     "timeWeek": 2023,
@@ -41,7 +41,8 @@
       "2026-07-18": 464,
       "2026-07-19": 822,
       "2026-07-20": 322,
-      "2026-07-21": 94
+      "2026-07-21": 94,
+      "2026-07-22": 0
     }
   },
   {
@@ -49,12 +50,12 @@
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "up",
-    "uptime": "96.88%",
-    "uptimeDay": "93.47%",
+    "status": "down",
+    "uptime": "96.89%",
+    "uptimeDay": "93.46%",
     "uptimeWeek": "83.14%",
     "uptimeMonth": "96.12%",
-    "uptimeYear": "96.88%",
+    "uptimeYear": "96.89%",
     "time": 615,
     "timeDay": 487,
     "timeWeek": 681,
@@ -68,7 +69,8 @@
       "2026-07-18": 330,
       "2026-07-19": 822,
       "2026-07-20": 321,
-      "2026-07-21": 94
+      "2026-07-21": 94,
+      "2026-07-22": 0
     }
   }
 ]
