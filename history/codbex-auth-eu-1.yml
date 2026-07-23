@@ -1,7 +1,7 @@
 url: https://auth.eu1.codbex.com/auth/health
-status: down
-code: 503
-responseTime: 480
-lastUpdated: 2026-07-23T20:48:29.398Z
+status: up
+code: 200
+responseTime: 965
+lastUpdated: 2026-07-23T22:41:38.116Z
 startTime: 2026-06-02T15:41:13.556Z
 generator: Upptime <https://github.com/upptime/upptime>
