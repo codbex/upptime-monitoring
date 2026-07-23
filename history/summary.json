@@ -23,11 +23,11 @@
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
     "status": "down",
-    "uptime": "96.76%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "77.15%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "96.76%",
+    "uptime": "96.67%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "76.48%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "96.67%",
     "time": 888,
     "timeDay": 801,
     "timeWeek": 1867,
@@ -43,7 +43,7 @@
       "2026-07-20": 322,
       "2026-07-21": 94,
       "2026-07-22": 309,
-      "2026-07-23": 158
+      "2026-07-23": 226
     }
   },
   {
@@ -51,9 +51,9 @@
     "url": "https://platform.eu1.codbex.com/actuator/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-platform-eu-1",
-    "status": "up",
+    "status": "down",
     "uptime": "96.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "80.07%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "96.57%",
@@ -71,7 +71,8 @@
       "2026-07-19": 822,
       "2026-07-20": 321,
       "2026-07-21": 94,
-      "2026-07-22": 309
+      "2026-07-22": 309,
+      "2026-07-23": 0
     }
   }
 ]
