@@ -22,17 +22,17 @@
     "url": "https://auth.eu1.codbex.com/auth/health",
     "icon": "https://www.codbex.com/favicon.ico",
     "slug": "codbex-auth-eu-1",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "65.26%",
-    "uptimeWeek": "92.88%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "96.34%",
-    "time": 1738,
-    "timeDay": 8363,
-    "timeWeek": 6457,
-    "timeMonth": 2643,
-    "timeYear": 1738,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "55.41%",
+    "uptimeWeek": "91.47%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "96.19%",
+    "time": 2056,
+    "timeDay": 13535,
+    "timeWeek": 8340,
+    "timeMonth": 3171,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2026-06-10": 21,
       "2026-06-09": 11,
@@ -46,7 +46,7 @@
       "2026-07-23": 271,
       "2026-07-25": 59,
       "2026-07-30": 217,
-      "2026-08-03": 500
+      "2026-08-03": 642
     }
   },
   {
